@@ -1,4 +1,4 @@
-# Awesome Exercise App
+# R-Exercise-App
 
 Welcome to the R-Exercise-App! This R script is your personal fitness companion, designed to generate dynamic and personalized weekly workout routines for an entire month. 🏋️‍♂️💪
 
@@ -28,7 +28,7 @@ The app boasts a rich selection of exercises, meticulously curated to target var
 
 Curious to see the app in action? Watch the demo video to get a sneak peek into the exciting world of Awesome Exercise App.
 
-[![Demo Video](https://your-video-thumbnail-url.com)](https://your-video-url.com)
+[![https://youtu.be/bi91arykYyw]]
 
 ## Customization
 
