@@ -6,7 +6,7 @@ Welcome to the R-Exercise-App! This R script is your personal fitness companion,
 
 The app boasts a rich selection of exercises, meticulously curated to target various muscle groups. It delivers a well-balanced blend of strength and cardio workouts, ensuring a comprehensive and effective fitness regimen.
 
-![Workout](./7A4FEA29-493F-4556-B379-08E1543C4B0C.png)
+![Workout](./pictures/7A4FEA29-493F-4556-B379-08E1543C4B0C.png)
 
 ## Features
 
